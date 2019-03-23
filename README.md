@@ -30,6 +30,8 @@ In this project we show how to use PyToch to address the most popular deep learn
 
 Each topic will refers to Notebook example. The example assume that reader are familiar with the theory of the neural networks and Python.
 
+More PyTorch tutorials are available [here](https://pytorch.org/tutorials/)
+
 <br>
 
 > Requirements
