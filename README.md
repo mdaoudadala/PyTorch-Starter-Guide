@@ -8,6 +8,8 @@ PyTorch provides two high-level features:
 
 Tensors can simply be considered multidimensional arrays. Tensors in PyTorch are similar to NumPy arrays, with the addition being that Tensors can also be used on a GPU that supports CUDA.
 
+<br>
+
 > PyTorch Modules
 
 - Autograd Module: PyTorch uses a technique called automatic differentiation. A recorder records what operations have performed, and then it replays it backward to compute the gradients. This technique is especially powerful when building neural networks in order to save time on one epoch by calculating differentiation of the parameters at the forward pass itself.
